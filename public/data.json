@@ -1,0 +1,100 @@
+{
+  "visual": {
+    "navbar": {
+      "links": [
+        {
+          "label": "Experience",
+          "path": "#experience"
+        },
+        {
+          "label": "Projects",
+          "path": "#projects"
+        },
+        {
+          "label": "Education",
+          "path": "#education"
+        },
+        {
+          "label": "Blogs",
+          "path": "#blogs"
+        }
+      ]
+    },
+    "home": {
+      "sections": {
+        "banner": true,
+        "experience": true,
+        "project": true,
+        "education": true,
+        "testimonial": true
+      }
+    }
+  },
+  "personalInfo": {
+    "name": "Rakesh Krishnamoorthy",
+    "title": "DevOps Engineer",
+    "location": "Tamil nadu, India",
+    "bio": "I am a passionate DevOps engineer with expertise in building and managing scalable, reliable, and secure infrastructure. I specialize in automating workflows, optimizing CI/CD pipelines, and ensuring seamless collaboration between development and operations teams."  },
+  "contactInfo": {
+    "email": "rakeshkrishna20032003gmail.com",
+    "phone": "8667347090",
+    "linkedin": "https://www.linkedin.com/in/rakesh-krishnamoorthy-devops/",
+    "github": "https://github.com/rakesh-krishnamoorthy",
+    "twitter": "https://x.com/rakesh_003_",
+    "website": "https://rakeshkrishna.ezyinfra.dev"
+  },
+  "skills": {
+    "languages": ["JavaScript", "Python", "Java", "C++"],
+    "frameworks": ["React", "Node.js", "Express", "Django", "Spring Boot"],
+    "databases": ["MySQL", "MongoDB", "PostgreSQL"],
+    "tools": ["Git", "Docker", "Kubernetes", "Jenkins", "AWS", "GCP"]
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "GPT genius",
+      "description": "Your AI Language companion. Powered by openAI , It enhances your Conversation , content creation and more !",
+      "technologies": ["Typescript", "Next.js", "TailwindCSS", "Prisma" , "OpenAI API"],
+      "live_url": "https://gptgenius-production-aiapp.vercel.app/",
+      "code_repo_url": "https://github.com/rakesh-krishnamoorthy/gptgenius-prod",
+      "cover": "/assets/project_1.png"
+    },
+    {
+      "id": "2",
+      "title": "JobsEzy",
+      "description": "A application for seeking Tech Jobs where you can find the most suitable job for your skills.",
+      "technologies": ["Typescript", "Next.js", "TailwindCSS", "Python", "fastAPI" , "PostgresSQL" ],
+      "live_url": "https://www.ezyinfra.dev",
+      "code_repo_url": "https://github.com/rakesh-krishnamoorthy/jobsezy-frontend",
+      "cover": "/assets/project_2.png"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "1",
+      "company": "Ezyinfra",
+      "companyWebsite": "https://www.ezyinfra.dev/",
+      "role": "DevOps Engineer",
+      "startDate": "April 2024",
+      "endDate": "Present",
+      "technologies": ["Next.js", "Node.js", "Docker", "AWS", "Github Actions", "Python"],
+      "keyResponsibilities": [
+        "Contributed to the development of HireSRE AI, an AI-based server monitoring application, working on both Next.js (frontend) and Python (backend).",
+        "Supported AWS Bootcamp activities, gaining hands-on experience in deploying and managing services.",
+        "Assisted in integrating monitoring tools to track server performance and generate actionable insights.",
+        "Actively contributed to team discussions, bringing fresh ideas to improve automation and system reliability .",
+        "Participated in troubleshooting and resolving deployment and infrastructure issues."
+      ]
+    }  
+  ],
+  "education": [
+    {
+      "id": "1",
+      "institution": "SNS College of Technology, Coimbatore",
+      "degree": "B.E(Computer Science Engineering)",
+      "description": "Completed a comprehensive curriculum in computer science engineering, including courses in data structures, algorithms, software engineering, and artificial intelligence. Worked on several projects.",
+      "startDate": "Augest 2020",
+      "endDate": "May 2024"
+    }
+  ]
+}
