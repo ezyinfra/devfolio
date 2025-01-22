@@ -1,43 +1,3 @@
-# Developer Portfolio Template
-
-Welcome to the Developer Portfolio Template! This open-source project allows you to quickly set up a personal portfolio website with minimal effort. The main data is sourced from a JSON file, making it easy to customize and update.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed on your machine:
-
-- Node.js
-- npm or yarn or pnpm
-- Git
-
-### Installation
-
-1. **Clone the repository**
-
-```sh
-   git clone https://github.com/ariflogs/devfolio.git
-   cd devfolio
-```
-
-2. **Install dependencies**
-
-```sh
-    npm i pnpm -g
-    pnpm install
-```
-
-
-3. **Run the development server**
-
-```sh
-    pnpm run dev
-```
-
-Open http://localhost:3000 with your browser to see the result.
-
-
 ### Customization
 
 1. **Update data.json**
@@ -62,6 +22,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Happy coding! If you have any questions, feel free to open an issue or [reach out](https://twitter.com/ariflogs).
+Happy coding! If you have any questions, feel free to open an issue or [reach out](https://x.com/rakesh_003_).
 
-<a href="https://www.buymeacoffee.com/ariflogs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.rakeshkrishna.ezyinfra.dev/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
