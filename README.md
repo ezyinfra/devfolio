@@ -18,8 +18,8 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository**
 
 ```sh
-   git clone https://github.com/ariflogs/devfolio.git
-   cd devfolio
+   git clone https://github.com/rakesh-krishnamoorthy/rakesh-portfolio.git
+   cd rakesh-portfolio
 ```
 
 2. **Install dependencies**
