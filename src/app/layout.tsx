@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Rakesh-Portfolio",
   description:
-    "A clean looking FREE portfolio template for devs. Built with NextJS & TailwindCSS",
+    "DevOps engineer skilled in cloud infrastructure, automation, and CI/CD pipelines...",
 };
 
 export default function RootLayout({
