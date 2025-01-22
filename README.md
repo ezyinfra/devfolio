@@ -1,6 +1,8 @@
 
+# Free open-Source Portfolio Template :
 # Free open-Source Portfolio Template
 
+Welcome to Free open-Source Portfolio Template! This open-source project allows you to quickly set up a personal portfolio website with minimal effort. The main data is sourced from a JSON file, making it easy to customize and update.
 Welcome to Free open-Source Portfolio Template! This open-source project allows you to quickly set up a personal portfolio website with minimal effort. The main data is sourced from a JSON file, making it easy to customize and update.
 
 ## Getting Started
