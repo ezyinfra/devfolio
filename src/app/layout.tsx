@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "Rakesh-Portfolio",
   description:
     "DevOps engineer skilled in cloud infrastructure, automation, and CI/CD pipelines...",
+  icons: {
+    icon:"./rk-icon.jpg",
+  },
 };
 
 export default function RootLayout({
