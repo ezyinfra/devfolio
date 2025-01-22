@@ -1,7 +1,7 @@
 
-# Free Open-Source Portfolio Template
+# Free open-Source Portfolio Template
 
-Welcome to the Free open source Portfolio Template! This open-source project allows you to quickly set up a personal portfolio website with minimal effort. The main data is sourced from a JSON file, making it easy to customize and update.
+Welcome to Free open-Source Portfolio Template! This open-source project allows you to quickly set up a personal portfolio website with minimal effort. The main data is sourced from a JSON file, making it easy to customize and update.
 
 ## Getting Started
 
@@ -18,8 +18,8 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository**
 
 ```sh
-   git clone https://github.com/ezyinfra/devfolio.git
-   cd devfolio
+   git clone https://github.com/rakesh-krishnamoorthy/rakesh-portfolio.git
+   cd rakesh-portfolio
 ```
 
 2. **Install dependencies**
@@ -63,6 +63,7 @@ This project is licensed under the MIT License.
 
 ---
 
-Happy coding! If you have any questions, feel free to open an issue or [reach out](https://x.com/worldofprasanna).
+Happy coding! If you have any questions, feel free to open an issue or [reach out](https://x.com/rakesh_003_).
 
-<a href="https://www.ezyinfra.dev/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.rakeshkrishna.ezyinfra.dev/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
