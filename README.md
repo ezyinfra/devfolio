@@ -1,3 +1,4 @@
+![blog-template](./public/blog-temp.png"Portfolio Preview")
 
 # Free open-Source Portfolio Template :
 
